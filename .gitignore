@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+output/
+sources/
+*.sqlite.tmp
+.DS_Store
